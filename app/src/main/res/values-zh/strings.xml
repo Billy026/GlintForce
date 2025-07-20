@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name" translatable="false">GlintForce</string>
+
+    <!-- Widget Notification -->
+    <string name="widgetNotification1">确保您已将小部件添加到设备的主屏幕。</string>
+    <string name="widgetNotification2">为此，请按照以下说明操作：</string>
+    <string name="widgetNotification3">    1. 按住设备主屏幕上的空白区域。</string>
+    <string name="widgetNotification4">    2. 单击 “Widgets” -> “GlintForce”。</string>
+    <string name="widgetNotification5">    3. 将小部件拖放到所需的空间中。</string>
+    <string name="checkbox">    不再显示</string>
+
+    <!-- Authentication -->
+    <string name="resetPassword">重置密码</string>
+    <string name="resetEmail">密码重置电子邮件已发送</string>
+
+    <!-- Tab titles -->
+    <string name="home_title">主页</string>
+    <string name="database_title">数据库</string>
+    <string name="limit_title">目标/备忘录</string>
+
+    <!-- Tab headings -->
+    <string name="hello">你好</string>
+    <string name="database_name">数据库</string>
+    <string name="limit_name">目标与备忘录</string>
+    <string name="settings_name">设置</string>
+
+    <!-- Icon titles -->
+    <string name="myAccount">我的账号</string>
+    <string name="settings_icon">设置</string>
+    <string name="logOut">登出</string>
+
+    <!-- Button -->
+    <string name="addButton">添加</string>
+    <string name="editButton">编辑</string>
+    <string name="selectAll">全选</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+
+    <!-- Widget -->
+    <string name="today_spending">本日支出：</string>
+
+    <!-- HomeScreen -->
+    <string name="expenditure">支出</string>
+    <string name="enlargeMessage">点击查看费用图表</string>
+    <string name="displayGoals">展示</string>
+    <string name="currGoals">当前目标</string>
+    <string name="noGoalsMsg">没有设置要展示的目标。若要选择一个，请单击展示按钮。</string>
+    <string name="currReminders">备注:</string>
+    <string name="noRemindersMsg">没有设置要展示的提醒。若要选择一个，请单击展示按钮。</string>
+    <string name="addExpense">记录开销</string>
+    <string name="details">描述</string>
+    <string name="detailsRequired">描述 *</string>
+    <string name="cost">开销</string>
+    <string name="costRequired">开销 *</string>
+
+    <!-- Database Screen -->
+    <string name="noExpense">本月还没有开支！</string>
+    <string name="editExpense">修改开销</string>
+    <string name="resetFilter">重置筛选</string>
+    <string name="sortAsc">升序</string>
+
+    <!-- Categories -->
+    <string name="manageCategory">管理类别</string>
+    <string name="insertCategory">插入类别</string>
+    <string name="editCategory">编辑类别</string>
+
+    <!-- Default Categories -->
+    <string name="foodDrinks">餐饮</string>
+    <string name="transport">交通</string>
+    <string name="dailyNecessities">日常必需品</string>
+    <string name="leisure">休闲</string>
+    <string name="misc">杂项</string>
+
+    <!-- Expense Buttons -->
+    <string name="sort">排序</string>
+    <string name="filter">筛选</string>
+    <string name="calculate">计算</string>
+    <string name="model">模型</string>
+
+    <!-- Expense Button Drop Downs -->
+    <string name="byDate">按日期</string>
+    <string name="byCategory">按类别</string>
+    <string name="byCost">按开销</string>
+    <string name="byCostRange">按开销范围</string>
+    <string name="selectCategory">选择一个类别:</string>
+    <string name="selectMinMax">选择最低和/或最高开销</string>
+    <string name="totalExp">总支出</string>
+    <string name="aveExp">平均支出</string>
+    <string name="calcByDate">按日期计算</string>
+    <string name="calcByCategory">按类别计算</string>
+    <string name="barChart">条形图</string>
+    <string name="lineChart">折线图</string>
+    <string name="pieChart">饼图</string>
+
+    <!-- Pop Up Labels -->
+    <string name="filterDate">日期</string>
+    <string name="filterTime">时间</string>
+    <string name="filterCategory">类别</string>
+    <string name="filterMinCost">最低开销</string>
+    <string name="filterMaxCost">最大开销</string>
+    <string name="totalText1">您本月总共花费了 S$</string>
+    <string name="totalText2"> </string>
+    <string name="aveText1">您本月平均每天花费  S$</string>
+    <string name="aveText2"> </string>
+    <string name="dateText1">您花费了 S$</string>
+    <string name="dateText2">在</string>
+    <string name="categoryText1">您花费了 S$</string>
+    <string name="categoryText2">在</string>
+    <string name="centerText">点击显示类别和百分比</string>
+
+    <!-- Limit Text Field Labels -->
+    <string name="limitScreen">目标与备忘录</string>
+    <string name="label">标签</string>
+    <string name="goals">目标</string>
+    <string name="reminders">备注</string>
+    <string name="type">类别 *</string>
+    <string name="amt">数量</string>
+    <string name="amount">数量 *</string>
+    <string name="requiredText">* 必填字段</string>
+    <string name="editGoal">编辑目标</string>
+    <string name="toastMsg">请先选择一个标签。</string>
+
+    <!-- Category Card Labels -->
+    <string name="maxMin">最大/最小</string>
+    <string name="max">最大</string>
+    <string name="min">最小</string>
+    <string name="typeDesc">类别描述</string>
+
+    <!-- Label types -->
+    <string name="maxLimit">预算</string>
+    <string name="setAside">搁置</string>
+
+    <!-- Goal Type Field Labels -->
+    <string name="manageType">管理类别</string>
+    <string name="addType">添加类别</string>
+    <string name="editType">编辑类别</string>
+
+    <!-- Limit Current Screen -->
+    <string name="current">当前目标和备注</string>
+    <string name="goalsEmpty">还没有目标或备注。单击“添加”按钮添加一个！</string>
+
+    <!-- My Account Field Labels -->
+    <string name="currUsername">当前用户名</string>
+    <string name="newUsername">新用户名</string>
+    <string name="currName">当前名字</string>
+    <string name="newName">新名字</string>
+    <string name="update">更新</string>
+
+    <!-- Settings Options -->
+    <string name="notifications">通知</string>
+    <string name="report">报告</string>
+    <string name="system">系统设置</string>
+
+    <!-- Report -->
+    <string name="prevYears">往年</string>
+    <string name="currYear">今年</string>
+    <string name="reportToast">此期间没有开销记录。</string>
+    <string name="emptyReport">尚未添加任何开销。请在主页添加一个！</string>
+
+    <!-- PDF Generation -->
+    <string name="expenditureIn">期间支出</string>
+    <string name="pdfToast">PDF文件生成成功</string>
+
+    <!-- System Settings - Language -->
+    <string name="lang">显示语言</string>
+    <string name="eng">英语</string>
+    <string name="chi">中文</string>
+    <string name="malay">马来语</string>
+    <string name="indo">印度尼西亚语</string>
+    <string name="jap">日语</string>
+    <string name="kr">韩语</string>
+    <string name="th">泰语</string>
+    <string name="viet">越南语</string>
+
+    <!-- System Settings - Report Rate -->
+    <string name="autoReport">自动生成报告</string>
+    <string name="weekly">每周</string>
+    <string name="biweekly">每两周</string>
+    <string name="monthly">每月</string>
+
+    <!-- System Settings - Change Themes -->
+    <string name="darkTheme">深色主题</string>
+</resources>

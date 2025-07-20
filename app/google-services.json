@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "161375447366",
+    "project_id": "glintforce",
+    "storage_bucket": "glintforce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161375447366:android:43e2b70298e7204c139d47",
+        "android_client_info": {
+          "package_name": "com.billy.glintforce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161375447366-erlnsllarf7obcgtqkt3ddjdsk3f9e5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.billy.glintforce",
+            "certificate_hash": "b88ee887fd4d9959b11eed3245a54c9a22f00f16"
+          }
+        },
+        {
+          "client_id": "161375447366-9mn2hqrosk6vj9mvum3a325stri30da1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPi_62xRrt6I5YBtadEtMpc7I0_-d14W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161375447366-9mn2hqrosk6vj9mvum3a325stri30da1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

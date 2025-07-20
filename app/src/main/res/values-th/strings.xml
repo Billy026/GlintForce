@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name" translatable="false">GlintForce</string>
+
+    <!-- Widget Notification -->
+    <string name="widgetNotification1">ตรวจสอบให้แน่ใจว่าคุณได้เพิ่มวิดเจ็ตลงในหน้าจอหลักของอุปกรณ์ของคุณแล้ว</string>
+    <string name="widgetNotification2">โดยทำตามคำแนะนำด้านล่าง:</string>
+    <string name="widgetNotification3">    1. กดค้างบนพื้นที่ว่างในหน้าจอหลักของอุปกรณ์ของคุณ</string>
+    <string name="widgetNotification4">    2. คลิกที่ Widgets -> GlintForce.</string>
+    <string name="widgetNotification5">    3. ลากและวางวิดเจ็ตในพื้นที่ที่คุณต้องการ</string>
+    <string name="checkbox">    ไม่แสดงอีกครั้ง</string>
+
+    <!-- Authentication -->
+    <string name="resetPassword">รีเซ็ตรหัสผ่าน</string>
+    <string name="resetEmail">ส่งอีเมลรีเซ็ตรหัสผ่านแล้ว</string>
+
+    <!-- Tab titles -->
+    <string name="home_title">หน้าแรก</string>
+    <string name="database_title">ฐานข้อมูล</string>
+    <string name="limit_title">ขีดจำกัด</string>
+
+    <!-- Tab headings -->
+    <string name="hello">สวัสดี</string>
+    <string name="database_name">ฐานข้อมูล</string>
+    <string name="limit_name">ขีด จำกัด</string>
+    <string name="settings_name">การตั้งค่า</string>
+
+    <!-- Icon titles -->
+    <string name="myAccount">บัญชีของฉัน</string>
+    <string name="settings_icon">การตั้งค่า</string>
+    <string name="logOut">ออกจากระบบ</string>
+
+    <!-- Button -->
+    <string name="addButton">เพิ่ม</string>
+    <string name="editButton">แก้ไข</string>
+    <string name="selectAll">เลือกทั้งหมด</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="confirm">ยืนยัน</string>
+
+    <!-- Widget -->
+    <string name="today_spending">การใช้จ่ายวันนี้:</string>
+
+    <!-- HomeScreen -->
+    <string name="expenditure">รายจ่าย</string>
+    <string name="enlargeMessage">คลิกเพื่อดูกราฟค่าใช้จ่าย</string>
+    <string name="displayGoals">แสดงผล</string>
+    <string name="currGoals">เป้าหมายปัจจุบัน</string>
+    <string name="noGoalsMsg">ไม่มีการตั้งค่าเป้าหมายที่จะแสดง หากต้องการเลือกรายการใดรายการหนึ่ง ให้คลิกปุ่มแสดงผล</string>
+    <string name="currReminders">คำเตือน:</string>
+    <string name="noRemindersMsg">ไม่มีการตั้งค่าการแจ้งเตือนที่จะแสดง หากต้องการเลือกรายการใดรายการหนึ่ง ให้คลิกปุ่มแสดงผล</string>
+    <string name="addExpense">เพิ่มค่าใช้จ่าย</string>
+    <string name="details">คำอธิบาย</string>
+    <string name="detailsRequired">คำอธิบาย *</string>
+    <string name="cost">ต้นทุน</string>
+    <string name="costRequired">ต้นทุน *</string>
+
+    <!-- Database Screen -->
+    <string name="noExpense">ไม่มีค่าใช้จ่ายในเดือนนี้!</string>
+    <string name="editExpense">แก้ไขค่าใช้จ่าย</string>
+    <string name="resetFilter">รีเซ็ตตัวกรอง</string>
+    <string name="sortAsc">เรียงลำดับจากน้อยไปหามาก</string>
+
+    <!-- Categories -->
+    <string name="manageCategory">จัดการหมวดหมู่</string>
+    <string name="insertCategory">แทรกหมวดหมู่</string>
+    <string name="editCategory">แก้ไขหมวดหมู่</string>
+
+    <!-- Default Categories -->
+    <string name="foodDrinks">อาหาร/เครื่องดื่ม</string>
+    <string name="transport">ขนส่ง</string>
+    <string name="dailyNecessities">สิ่งจำเป็นรายวัน</string>
+    <string name="leisure">พักผ่อน</string>
+    <string name="misc">เบ็ดเตล็ด</string>
+
+    <!-- Expense Buttons -->
+    <string name="sort">เรียงลำดับ</string>
+    <string name="filter">ตัวกรอง</string>
+    <string name="calculate">คำนวณ</string>
+    <string name="model">รุ่น</string>
+
+    <!-- Expense Button Drop Downs -->
+    <string name="byDate">ตามวันที่</string>
+    <string name="byCategory">ตามหมวดหมู่</string>
+    <string name="byCost">ตามต้นทุน</string>
+    <string name="byCostRange">ตามช่วงต้นทุน</string>
+    <string name="selectCategory">เลือกหมวดหมู่:</string>
+    <string name="selectMinMax">เลือกต้นทุนขั้นต่ำและ/หรือสูงสุด</string>
+    <string name="totalExp">ค่าใช้จ่ายทั้งหมด</string>
+    <string name="aveExp">ค่าใช้จ่ายเฉลี่ย</string>
+    <string name="calcByDate">คำนวณตามวันที่</string>
+    <string name="calcByCategory">คำนวณตามหมวดหมู่</string>
+    <string name="barChart">แผนภูมิแท่ง</string>
+    <string name="lineChart">แผนภูมิเส้น</string>
+    <string name="pieChart">แผนภูมิวงกลม</string>
+
+    <!-- Pop Up Labels -->
+    <string name="filterDate">วันที่</string>
+    <string name="filterTime">เวลา</string>
+    <string name="filterCategory">หมวดหมู่</string>
+    <string name="filterMinCost">ต้นทุนขั้นต่ำ</string>
+    <string name="filterMaxCost">ต้นทุนสูงสุด</string>
+    <string name="totalText1">คุณใช้จ่ายทั้งหมด S$</string>
+    <string name="totalText2">ในเดือนนี้</string>
+    <string name="aveText1">คุณใช้จ่ายเฉลี่ย S$</string>
+    <string name="aveText2">ต่อวันในเดือนนี้</string>
+    <string name="dateText1">คุณใช้เงิน S$</string>
+    <string name="dateText2">ไปกับค่า</string>
+    <string name="categoryText1">คุณใช้จ่าย S$</string>
+    <string name="categoryText2">ในวันที่</string>
+    <string name="centerText">คลิกเพื่อแสดงหมวดหมู่และเปอร์เซ็นต์</string>
+
+    <!-- Limit Text Field Labels -->
+    <string name="limitScreen">หน้าจอจำกัด</string>
+    <string name="label">ป้ายกำกับ</string>
+    <string name="goals">เป้าหมาย</string>
+    <string name="reminders">ตัวเตือน</string>
+    <string name="type">พิมพ์ *</string>
+    <string name="amt">จำนวนเงิน</string>
+    <string name="amount">จำนวนเงิน *</string>
+    <string name="requiredText">* ช่องที่ต้องกรอก</string>
+    <string name="editGoal">แก้ไขเป้าหมาย</string>
+    <string name="toastMsg">โปรดเลือกป้ายกำกับก่อน</string>
+
+    <!-- Category Card Labels -->
+    <string name="maxMin">สูงสุด/นาที</string>
+    <string name="max">สูงสุด</string>
+    <string name="min">นาที</string>
+    <string name="typeDesc">พิมพ์คำอธิบาย</string>
+
+    <!-- Label types -->
+    <string name="maxLimit">ขีดจำกัดสูงสุด</string>
+    <string name="setAside">แยกไว้</string>
+
+    <!-- Goal Type Field Labels -->
+    <string name="manageType">จัดการประเภท</string>
+    <string name="addType">เพิ่มประเภท</string>
+    <string name="editType">แก้ไขประเภท</string>
+
+    <!-- Limit Current Screen -->
+    <string name="current">ปัจจุบัน</string>
+    <string name="goalsEmpty">ยังไม่มีเป้าหมายหรือการแจ้งเตือน คลิกปุ่มเพิ่มเพื่อเพิ่ม!</string>
+
+    <!-- My Account Field Labels -->
+    <string name="currUsername">ชื่อผู้ใช้ปัจจุบัน</string>
+    <string name="newUsername">ชื่อผู้ใช้ใหม่</string>
+    <string name="currName">ชื่อปัจจุบัน</string>
+    <string name="newName">ชื่อใหม่</string>
+    <string name="update">อัปเดต</string>
+
+    <!-- Settings Options -->
+    <string name="notifications">การแจ้งเตือน</string>
+    <string name="report">รายงาน</string>
+    <string name="system">การตั้งค่าระบบ</string>
+
+    <!-- Report -->
+    <string name="prevYears">ปีก่อนหน้า</string>
+    <string name="currYear">ปีปัจจุบัน</string>
+    <string name="reportToast">ไม่มีค่าใช้จ่ายในช่วงเวลานี้</string>
+    <string name="emptyReport">ยังไม่มีการเพิ่มค่าใช้จ่าย เพิ่มหนึ่งในหน้าแรก!</string>
+
+    <!-- PDF Generation -->
+    <string name="expenditureIn">ค่าใช้จ่ายระหว่าง</string>
+    <string name="pdfToast">สร้างไฟล์ PDF เรียบร้อยแล้ว</string>
+
+    <!-- System Settings - Language -->
+    <string name="lang">ภาษาที่แสดง</string>
+    <string name="eng">ภาษาอังกฤษ</string>
+    <string name="chi">ภาษาจีน</string>
+    <string name="malay">ภาษามลายู</string>
+    <string name="indo">ภาษาชาวอินโดนีเซีย</string>
+    <string name="jap">ภาษาญี่ปุ่น</string>
+    <string name="kr">ภาษาเกาหลี</string>
+    <string name="th">ภาษาไทย</string>
+    <string name="viet">ภาษาเวียดนาม</string>
+
+    <!-- System Settings - Report Rate -->
+    <string name="autoReport">การสร้างรายงานอัตโนมัติ</string>
+    <string name="weekly">รายสัปดาห์</string>
+    <string name="biweekly">รายปักษ์</string>
+    <string name="monthly">รายเดือน</string>
+
+    <!-- System Settings - Change Themes -->
+    <string name="darkTheme">ธีมสีเข้ม</string>
+</resources>

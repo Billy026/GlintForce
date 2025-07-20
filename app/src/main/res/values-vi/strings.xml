@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name" translatable="false">GlintForce</string>
+
+    <!-- Widget Notification -->
+    <string name="widgetNotification1">Đảm bảo bạn đã thêm tiện ích vào màn hình chính của thiết bị.</string>
+    <string name="widgetNotification2">Để thực hiện việc này, hãy làm theo hướng dẫn bên dưới:</string>
+    <string name="widgetNotification3">    1. Nhấn và giữ vào khoảng trống trên màn hình chính của thiết bị của bạn.</string>
+    <string name="widgetNotification4">    2. Nhấp vào Widgets -> GlintForce.</string>
+    <string name="widgetNotification5">    3. Kéo và thả tiện ích vào không gian bạn muốn.</string>
+    <string name="checkbox">    Không hiển thị trở lại</string>
+
+    <!-- Authentication -->
+    <string name="resetPassword">Đặt lại mật khẩu</string>
+    <string name="resetEmail">Email đặt lại mật khẩu đã được gửi</string>
+
+    <!-- Tab titles -->
+    <string name="home_title">Trang chủ</string>
+    <string name="database_title">Cơ sở dữ liệu</string>
+    <string name="limit_title">Giới hạn</string>
+
+    <!-- Tab headings -->
+    <string name="hello">Xin chào</string>
+    <string name="database_name">CƠ SỞ DỮ LIỆU</string>
+    <string name="limit_name">GIỚI HẠN</string>
+    <string name="settings_name">CÀI ĐẶT</string>
+
+    <!-- Icon titles -->
+    <string name="myAccount">Tài khoản của tôi</string>
+    <string name="settings_icon">Cài đặt</string>
+    <string name="logOut">Đăng xuất</string>
+
+    <!-- Button -->
+    <string name="addButton">Thêm</string>
+    <string name="editButton">Chỉnh sửa</string>
+    <string name="selectAll">Chọn tất cả</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="confirm">Xác nhận</string>
+
+    <!-- Widget -->
+    <string name="today_spending">Chi tiêu hôm nay:</string>
+
+    <!-- HomeScreen -->
+    <string name="expenditure">Chi phí</string>
+    <string name="enlargeMessage">Bấm vào để xem biểu đồ chi phí</string>
+    <string name="displayGoals">Hiển thị</string>
+    <string name="currGoals">Mục tiêu hiện tại</string>
+    <string name="noGoalsMsg">Không có mục tiêu nào được đặt để hiển thị. Để chọn một, hãy nhấp vào nút hiển thị.</string>
+    <string name="currReminders">Lời nhắc nhở:</string>
+    <string name="noRemindersMsg">Không có lời nhắc nào được đặt để hiển thị. Để chọn một, hãy nhấp vào nút hiển thị.</string>
+    <string name="addExpense">Thêm chi phí</string>
+    <string name="details">Mô tả</string>
+    <string name="detailsRequired">Mô tả *</string>
+    <string name="cost">Chi phí</string>
+    <string name="costRequired">Chi phí *</string>
+
+    <!-- Database Screen -->
+    <string name="noExpense">Chưa có chi phí nào trong tháng này!</string>
+    <string name="editExpense">Chỉnh sửa chi phí</string>
+    <string name="resetFilter">Đặt lại bộ lọc</string>
+    <string name="sortAsc">Sắp xếp tăng dần</string>
+
+    <!-- Categories -->
+    <string name="manageCategory">Quản lý danh mục</string>
+    <string name="insertCategory">Chèn danh mục</string>
+    <string name="editCategory">Chỉnh sửa danh mục</string>
+
+    <!-- Default Categories -->
+    <string name="foodDrinks">Đồ ăn/Đồ uống</string>
+    <string name="transport">Vận chuyển</string>
+    <string name="dailyNecessities">Những nhu cầu thiết yếu hàng ngày</string>
+    <string name="leisure">Giải trí</string>
+    <string name="misc">Khác</string>
+
+    <!-- Expense Buttons -->
+    <string name="sort">Sắp xếp</string>
+    <string name="filter">Bộ lọc</string>
+    <string name="calculate">Tính toán</string>
+    <string name="model">Mô hình</string>
+
+    <!-- Expense Button Drop Downs -->
+    <string name="byDate">Theo ngày</string>
+    <string name="byCategory">Theo danh mục</string>
+    <string name="byCost">Theo chi phí</string>
+    <string name="byCostRange">Theo phạm vi chi phí</string>
+    <string name="selectCategory">Chọn một danh mục:</string>
+    <string name="selectMinMax">Chọn chi phí tối thiểu và/hoặc tối đa</string>
+    <string name="totalExp">Tổng chi tiêu</string>
+    <string name="aveExp">Chi tiêu trung bình</string>
+    <string name="calcByDate">Tính theo ngày</string>
+    <string name="calcByCategory">Tính theo danh mục</string>
+    <string name="barChart">Biểu đồ thanh</string>
+    <string name="lineChart">Biểu đồ dạng đường</string>
+    <string name="pieChart">Biểu đồ hình tròn</string>
+
+    <!-- Pop Up Labels -->
+    <string name="filterDate">Ngày</string>
+    <string name="filterTime">Thời gian</string>
+    <string name="filterCategory">Danh mục</string>
+    <string name="filterMinCost">Chi phí tối thiểu</string>
+    <string name="filterMaxCost">Chi phí tối đa</string>
+    <string name="totalText1">Bạn đã chi tổng cộng S$</string>
+    <string name="totalText2">trong tháng này</string>
+    <string name="aveText1">Bạn đã chi tiêu trung bình S$</string>
+    <string name="aveText2">mỗi ngày trong tháng này</string>
+    <string name="dateText1">Bạn đã chi S$</string>
+    <string name="dateText2">cho</string>
+    <string name="categoryText1">Bạn đã chi S$</string>
+    <string name="categoryText2">vào</string>
+    <string name="centerText">Bấm để hiển thị danh mục và tỷ lệ phần trăm</string>
+
+    <!-- Limit Text Field Labels -->
+    <string name="limitScreen">Màn hình giới hạn</string>
+    <string name="label">Nhãn</string>
+    <string name="goals">Mục tiêu</string>
+    <string name="reminders">Lời nhắc</string>
+    <string name="type">Gõ *</string>
+    <string name="amt">Số tiền</string>
+    <string name="amount">Số tiền *</string>
+    <string name="requiredText">* trường bắt buộc</string>
+    <string name="editGoal">Chỉnh sửa mục tiêu</string>
+    <string name="toastMsg">Vui lòng chọn một Nhãn trước tiên.</string>
+
+    <!-- Category Card Labels -->
+    <string name="maxMin">Tối đa/Tối thiểu</string>
+    <string name="max">Tối đa</string>
+    <string name="min">Tối thiểu</string>
+    <string name="typeDesc">Loại mô tả</string>
+
+    <!-- Label types -->
+    <string name="maxLimit">Giới hạn tối đa</string>
+    <string name="setAside">Đặt sang một bên</string>
+
+    <!-- Goal Type Field Labels -->
+    <string name="manageType">Quản lý loại</string>
+    <string name="addType">Thêm loại</string>
+    <string name="editType">Loại chỉnh sửa</string>
+
+    <!-- Limit Current Screen -->
+    <string name="current">Hiện hành</string>
+    <string name="goalsEmpty">Chưa có Mục tiêu hoặc Lời nhắc nào. Hãy nhấp vào nút Thêm để thêm một!</string>
+
+    <!-- My Account Field Labels -->
+    <string name="currUsername">Tên người dùng hiện tại</string>
+    <string name="newUsername">Tên người dùng mới</string>
+    <string name="currName">Tên hiện tại</string>
+    <string name="newName">Tên mới</string>
+    <string name="update">cập nhật</string>
+
+    <!-- Settings Options -->
+    <string name="notifications">Thông báo</string>
+    <string name="report">Báo cáo</string>
+    <string name="system">Cài đặt hệ thống</string>
+
+    <!-- Report -->
+    <string name="prevYears">Những năm trước</string>
+    <string name="currYear">Năm hiện tại</string>
+    <string name="reportToast">Không có chi phí sẵn có cho giai đoạn này.</string>
+    <string name="emptyReport">Chưa có chi phí nào được thêm vào. Thêm một trong Trang chủ!</string>
+
+    <!-- PDF Generation -->
+    <string name="expenditureIn">Chi tiêu trong thời gian</string>
+    <string name="pdfToast">Tệp PDF được tạo thành công</string>
+
+    <!-- System Settings - Language -->
+    <string name="lang">Ngôn ngữ hiển thị</string>
+    <string name="eng">Tiếng Anh</string>
+    <string name="chi">Tiếng Trung Quốc</string>
+    <string name="malay">Tiếng Mã Lai</string>
+    <string name="indo">Tiếng Indonesia</string>
+    <string name="jap">Tiếng Nhật</string>
+    <string name="kr">Ngôn Ngữ Hàn Quốc</string>
+    <string name="th">Tiếng Thái Lan</string>
+    <string name="viet">Ngôn Ngữ Tiếng Việt</string>
+
+    <!-- System Settings - Report Rate -->
+    <string name="autoReport">Tạo báo cáo tự động</string>
+    <string name="weekly">Hàng tuần</string>
+    <string name="biweekly">Hai tuần một lần</string>
+    <string name="monthly">Hàng tháng</string>
+
+    <!-- System Settings - Change Themes -->
+    <string name="darkTheme">Chủ đề tối</string>
+</resources>

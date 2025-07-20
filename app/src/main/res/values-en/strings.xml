@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name">GlintForce</string>
+
+    <!-- Widget Notification -->
+    <string name="widgetNotification1">Ensure you have added the widget to the home screen of your device.</string>
+    <string name="widgetNotification2">To do this, follow the instructions below:</string>
+    <string name="widgetNotification3">    1. Press and hold on an empty space in the home screen of your device.</string>
+    <string name="widgetNotification4">    2. Click on Widgets -> GlintForce.</string>
+    <string name="widgetNotification5">    3. Drag and drop the widget in your desired space.</string>
+    <string name="checkbox">    Do not show again</string>
+
+    <!-- Authentication -->
+    <string name="resetPassword">Reset Password</string>
+    <string name="resetEmail">Password reset email has been sent</string>
+
+    <!-- Tab titles -->
+    <string name="home_title">Home</string>
+    <string name="database_title">Database</string>
+    <string name="limit_title">Limit</string>
+
+    <!-- Tab headings -->
+    <string name="hello">Hello</string>
+    <string name="database_name">DATABASE</string>
+    <string name="limit_name">LIMIT</string>
+    <string name="settings_name">SETTINGS</string>
+
+    <!-- Icon titles -->
+    <string name="myAccount">My Account</string>
+    <string name="settings_icon">Settings</string>
+    <string name="logOut">Log Out</string>
+
+    <!-- Button -->
+    <string name="addButton">Add</string>
+    <string name="editButton">Edit</string>
+    <string name="selectAll">Select All</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+
+    <!-- Widget -->
+    <string name="today_spending">Today\'s spending:</string>
+
+    <!-- HomeScreen -->
+    <string name="expenditure">Expenditure</string>
+    <string name="enlargeMessage">Click to see graph of expenses</string>
+    <string name="displayGoals">Display</string>
+    <string name="currGoals">Current Goals</string>
+    <string name="noGoalsMsg">No goals set to display. To select one, click the display button.</string>
+    <string name="currReminders">Reminder:</string>
+    <string name="noRemindersMsg">No reminders set to display. To select one, click the display button.</string>
+    <string name="addExpense">Add Expense</string>
+    <string name="details">Description</string>
+    <string name="detailsRequired">Description *</string>
+    <string name="cost">Cost</string>
+    <string name="costRequired">Cost *</string>
+
+    <!-- Database Screen -->
+    <string name="noExpense">No expenses this month yet!</string>
+    <string name="editExpense">Edit Expense</string>
+    <string name="resetFilter">Reset filter</string>
+    <string name="sortAsc">Sort ascending</string>
+
+    <!-- Categories -->
+    <string name="manageCategory">Manage Categories</string>
+    <string name="insertCategory">Insert Category</string>
+    <string name="editCategory">Edit Category</string>
+
+    <!-- Default Categories -->
+    <string name="foodDrinks">Food/Drinks</string>
+    <string name="transport">Transport</string>
+    <string name="dailyNecessities">Daily Necessities</string>
+    <string name="leisure">Leisure</string>
+    <string name="misc">Misc</string>
+
+    <!-- Expense Buttons -->
+    <string name="sort">Sort</string>
+    <string name="filter">Filter</string>
+    <string name="calculate">Calculate</string>
+    <string name="model">Model</string>
+
+    <!-- Expense Button Drop Downs -->
+    <string name="byDate">By date</string>
+    <string name="byCategory">By category</string>
+    <string name="byCost">By cost</string>
+    <string name="byCostRange">By cost range</string>
+    <string name="selectCategory">Select a category:</string>
+    <string name="selectMinMax">Select minimum and/or maximum cost</string>
+    <string name="totalExp">Total expenditure</string>
+    <string name="aveExp">Average expenditure</string>
+    <string name="calcByDate">Calculate by date</string>
+    <string name="calcByCategory">Calculate by category</string>
+    <string name="barChart">Bar chart</string>
+    <string name="lineChart">Line chart</string>
+    <string name="pieChart">Pie chart</string>
+
+    <!-- Pop Up Labels -->
+    <string name="filterDate">Date</string>
+    <string name="filterTime">Time</string>
+    <string name="filterCategory">Category</string>
+    <string name="filterMinCost">Minimum Cost</string>
+    <string name="filterMaxCost">Maximum Cost</string>
+    <string name="totalText1">You spent S$</string>
+    <string name="totalText2">in total this month</string>
+    <string name="aveText1">You spent an average of S$</string>
+    <string name="aveText2">per day this month</string>
+    <string name="dateText1">You spent S$</string>
+    <string name="dateText2">on</string>
+    <string name="categoryText1">You spent S$</string>
+    <string name="categoryText2">on</string>
+    <string name="centerText">Click to display category and percentage</string>
+
+    <!-- Limit Text Field Labels -->
+    <string name="limitScreen">Limit Screen</string>
+    <string name="label">Label</string>
+    <string name="goals">Goals</string>
+    <string name="reminders">Reminders</string>
+    <string name="type">Type *</string>
+    <string name="amt">Amount</string>
+    <string name="amount">Amount *</string>
+    <string name="requiredText">* required fields</string>
+    <string name="editGoal">Edit Goal</string>
+    <string name="toastMsg">Please select a Label first.</string>
+
+    <!-- Category Card Labels -->
+    <string name="maxMin">Max/Min</string>
+    <string name="max">Max</string>
+    <string name="min">Min</string>
+    <string name="typeDesc">Type Description</string>
+
+    <!-- Label types -->
+    <string name="maxLimit">Max Limit</string>
+    <string name="setAside">Set Aside</string>
+
+    <!-- Goal Type Field Labels -->
+    <string name="manageType">Manage Types</string>
+    <string name="addType">Add Type</string>
+    <string name="editType">Edit Type</string>
+
+    <!-- Limit Current Screen -->
+    <string name="current">Current</string>
+    <string name="goalsEmpty">No Goals or Reminders yet. Click the Add button to add one!</string>
+
+    <!-- My Account Field Labels -->
+    <string name="currUsername">Current Username</string>
+    <string name="newUsername">New Username</string>
+    <string name="currName">Current Name</string>
+    <string name="newName">New Name</string>
+    <string name="update">Update</string>
+
+    <!-- Settings Options -->
+    <string name="notifications">Notifications</string>
+    <string name="report">Reports</string>
+    <string name="system">System Settings</string>
+
+    <!-- Report -->
+    <string name="prevYears">Previous Years</string>
+    <string name="currYear">Current Year</string>
+    <string name="reportToast">No available expenses for this period.</string>
+    <string name="emptyReport">No expenses added yet. Add one in Home Page!</string>
+
+    <!-- PDF Generation -->
+    <string name="expenditureIn">Expenditure in</string>
+    <string name="pdfToast">PDF file generated successfully</string>
+
+    <!-- System Settings - Language -->
+    <string name="lang">Displayed language</string>
+    <string name="eng">English</string>
+    <string name="chi">Chinese</string>
+    <string name="malay">Malay</string>
+    <string name="indo">Indonesian</string>
+    <string name="jap">Japanese</string>
+    <string name="kr">Korean</string>
+    <string name="th">Thai</string>
+    <string name="viet">Vietnamese</string>
+
+    <!-- System Settings - Report Rate -->
+    <string name="autoReport">Automatic Report Generation</string>
+    <string name="weekly">Weekly</string>
+    <string name="biweekly">Biweekly</string>
+    <string name="monthly">Monthly</string>
+
+    <!-- System Settings - Change Themes -->
+    <string name="darkTheme">Dark theme</string>
+</resources>

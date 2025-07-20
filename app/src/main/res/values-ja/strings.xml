@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name" translatable="false">GlintForce</string>
+
+    <!-- Widget Notification -->
+    <string name="widgetNotification1">デバイスのホーム画面にウィジェットが追加されていることを確認してください。</string>
+    <string name="widgetNotification2">これを行うには、以下の手順に従ってください:</string>
+    <string name="widgetNotification3">    1. デバイスのホーム画面の空きスペースを長押しします。</string>
+    <string name="widgetNotification4">    2. [Widgets] -> [GlintForce] をクリックします。</string>
+    <string name="widgetNotification5">    3. ウィジェットを目的のスペースにドラッグ アンド ドロップします。</string>
+    <string name="checkbox">    再び表示しない</string>
+
+    <!-- Authentication -->
+    <string name="resetPassword">パスワードのリセット</string>
+    <string name="resetEmail">パスワードリセットメールが送信されました</string>
+
+    <!-- Tab titles -->
+    <string name="home_title">ホーム</string>
+    <string name="database_title">データベース</string>
+    <string name="limit_title">制限</string>
+
+    <!-- Tab headings -->
+    <string name="hello">こんにちは</string>
+    <string name="database_name">データベース</string>
+    <string name="limit_name">限界</string>
+    <string name="settings_name">設定</string>
+
+    <!-- Icon titles -->
+    <string name="myAccount">私のアカウント</string>
+    <string name="settings_icon">設定</string>
+    <string name="logOut">ログアウト</string>
+
+    <!-- Button -->
+    <string name="addButton">追加</string>
+    <string name="editButton">編集</string>
+    <string name="selectAll">すべて選択</string>
+    <string name="cancel">取り消す</string>
+    <string name="confirm">確認する</string>
+
+    <!-- Widget -->
+    <string name="today_spending">今日の出費:</string>
+
+    <!-- HomeScreen -->
+    <string name="expenditure">支出</string>
+    <string name="enlargeMessage">クリックすると費用のグラフが表示されます</string>
+    <string name="displayGoals">画面</string>
+    <string name="currGoals">現在の目標</string>
+    <string name="noGoalsMsg">表示する目標が設定されていません。いずれかを選択するには、表示ボタンをクリックします。</string>
+    <string name="currReminders">リマインダー:</string>
+    <string name="noRemindersMsg">表示するリマインダーは設定されていません。いずれかを選択するには、表示ボタンをクリックします。</string>
+    <string name="addExpense">経費を追加する</string>
+    <string name="details">説明</string>
+    <string name="detailsRequired">説明 *</string>
+    <string name="cost">料金</string>
+    <string name="costRequired">料金 *</string>
+
+    <!-- Database Screen -->
+    <string name="noExpense">今月はまだ出費がありません！</string>
+    <string name="editExpense">経費の編集</string>
+    <string name="resetFilter">フィルターをリセットする</string>
+    <string name="sortAsc">ソート昇順</string>
+
+    <!-- Categories -->
+    <string name="manageCategory">カテゴリの管理</string>
+    <string name="insertCategory">カテゴリの挿入</string>
+    <string name="editCategory">カテゴリの編集</string>
+
+    <!-- Default Categories -->
+    <string name="foodDrinks">食べ物/飲み物</string>
+    <string name="transport">トランスポート</string>
+    <string name="dailyNecessities">日用品</string>
+    <string name="leisure">レジャー</string>
+    <string name="misc">その他</string>
+
+    <!-- Expense Buttons -->
+    <string name="sort">選別</string>
+    <string name="filter">漉す</string>
+    <string name="calculate">計算する</string>
+    <string name="model">模型</string>
+
+    <!-- Expense Button Drop Downs -->
+    <string name="byDate">日付別</string>
+    <string name="byCategory">カテゴリ別</string>
+    <string name="byCost">コスト別</string>
+    <string name="byCostRange">コスト範囲別</string>
+    <string name="selectCategory">カテゴリーを選ぶ:</string>
+    <string name="selectMinMax">最小コストおよび/または最大コストを選択します</string>
+    <string name="totalExp">総支出</string>
+    <string name="aveExp">平均支出</string>
+    <string name="calcByDate">日付で計算</string>
+    <string name="calcByCategory">カテゴリ別に計算</string>
+    <string name="barChart">棒グラフ</string>
+    <string name="lineChart">折れ線グラフ</string>
+    <string name="pieChart">円グラフ</string>
+
+    <!-- Pop Up Labels -->
+    <string name="filterDate">日付</string>
+    <string name="filterTime">時間</string>
+    <string name="filterCategory">カテゴリ</string>
+    <string name="filterMinCost">最小コスト</string>
+    <string name="filterMaxCost">最大コスト</string>
+    <string name="totalText1">今月合計で S$</string>
+    <string name="totalText2">使いました</string>
+    <string name="aveText1">今月は 1 日あたり平均 S$</string>
+    <string name="aveText2">を費やしました</string>
+    <string name="dateText1">あなたは費やした S$</string>
+    <string name="dateText2">の上</string>
+    <string name="categoryText1">あなたは費やした S$</string>
+    <string name="categoryText2">の上</string>
+    <string name="centerText">クリックするとカテゴリとパーセンテージが表示されます</string>
+
+    <!-- Limit Text Field Labels -->
+    <string name="limitScreen">リミット画面</string>
+    <string name="label">ラベル</string>
+    <string name="goals">目標</string>
+    <string name="reminders">リマインダー</string>
+    <string name="type">と入力 *</string>
+    <string name="amt">金額</string>
+    <string name="amount">金額 *</string>
+    <string name="requiredText">* 必須フィールド</string>
+    <string name="editGoal">目標を編集</string>
+    <string name="toastMsg">最初にラベルを選択してください。</string>
+
+    <!-- Category Card Labels -->
+    <string name="maxMin">最大/最小</string>
+    <string name="max">最大</string>
+    <string name="min">最小</string>
+    <string name="typeDesc">タイプの説明</string>
+
+    <!-- Label types -->
+    <string name="maxLimit">最大制限</string>
+    <string name="setAside">脇に置く</string>
+
+    <!-- Goal Type Field Labels -->
+    <string name="manageType">タイプの管理</string>
+    <string name="addType">タイプの追加</string>
+    <string name="editType">編集タイプ</string>
+
+    <!-- Limit Current Screen -->
+    <string name="current">現在</string>
+    <string name="goalsEmpty">目標やリマインダーはまだありません。 [追加] ボタンをクリックして追加します</string>
+
+    <!-- My Account Field Labels -->
+    <string name="currUsername">現在のユーザー名</string>
+    <string name="newUsername">新しいユーザー名</string>
+    <string name="currName">現在の名前</string>
+    <string name="newName">新しい名前</string>
+    <string name="update">更新</string>
+
+    <!-- Settings Options -->
+    <string name="notifications">通知</string>
+    <string name="report">レポート</string>
+    <string name="system">システム設定</string>
+
+    <!-- Report -->
+    <string name="prevYears">前年</string>
+    <string name="currYear">現在の年</string>
+    <string name="reportToast">この期間に利用可能な経費はありません。</string>
+    <string name="emptyReport">まだ経費は追加されていません。ホームページに追加してください!</string>
+
+    <!-- PDF Generation -->
+    <string name="expenditureIn">期間中の支出</string>
+    <string name="pdfToast">PDF ファイルが正常に生成されました</string>
+
+    <!-- System Settings - Language -->
+    <string name="lang">表示言語</string>
+    <string name="eng">英語</string>
+    <string name="chi">中国語</string>
+    <string name="malay">マレー語</string>
+    <string name="indo">インドネシア語</string>
+    <string name="jap">日本語</string>
+    <string name="kr">韓国語</string>
+    <string name="th">タイ語</string>
+    <string name="viet">ベトナム語</string>
+
+    <!-- System Settings - Report Rate -->
+    <string name="autoReport">自動レポート生成</string>
+    <string name="weekly">毎週</string>
+    <string name="biweekly">毎2週</string>
+    <string name="monthly">毎月</string>
+
+    <!-- System Settings - Change Themes -->
+    <string name="darkTheme">ダークテーマ</string>
+</resources>

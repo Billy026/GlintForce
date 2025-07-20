@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name" translatable="false">GlintForce</string>
+
+    <!-- Widget Notification -->
+    <string name="widgetNotification1">Pastikan Anda telah menambahkan widget ke layar beranda perangkat Anda.</string>
+    <string name="widgetNotification2">Untuk melakukannya, ikuti petunjuk di bawah:</string>
+    <string name="widgetNotification3">    1. Tekan dan tahan pada ruang kosong di layar beranda perangkat Anda.</string>
+    <string name="widgetNotification4">    2. Klik Widgets -> GlintForce.</string>
+    <string name="widgetNotification5">    3. Tarik dan letakkan widget di ruang yang Anda inginkan.</string>
+    <string name="checkbox">    Jangan perlihatkan lagi</string>
+
+    <!-- Authentication -->
+    <string name="resetPassword">Setel Ulang Kata Sandi</string>
+    <string name="resetEmail">Email pengaturan ulang kata sandi telah dikirim</string>
+
+    <!-- Tab titles -->
+    <string name="home_title">Rumah</string>
+    <string name="database_title">Basis data</string>
+    <string name="limit_title">Membatasi</string>
+
+    <!-- Tab headings -->
+    <string name="hello">Halo</string>
+    <string name="database_name">BASIS DATA</string>
+    <string name="limit_name">MEMBATASI</string>
+    <string name="settings_name">PENGATURAN</string>
+
+    <!-- Icon titles -->
+    <string name="myAccount">Akun saya</string>
+    <string name="settings_icon">Pengaturan</string>
+    <string name="logOut">Keluar</string>
+
+    <!-- Button -->
+    <string name="addButton">Menambahkan</string>
+    <string name="editButton">Sunting</string>
+    <string name="selectAll">Pilih Semua</string>
+    <string name="cancel">Membatalkan</string>
+    <string name="confirm">Mengonfirmasi</string>
+
+    <!-- Widget -->
+    <string name="today_spending">Pengeluaran hari ini:</string>
+
+    <!-- HomeScreen -->
+    <string name="expenditure">Pengeluaran</string>
+    <string name="enlargeMessage">Klik untuk melihat grafik pengeluaran</string>
+    <string name="displayGoals">Menampilkan</string>
+    <string name="currGoals">Tujuan Saat Ini</string>
+    <string name="noGoalsMsg">Tidak ada sasaran yang ditetapkan untuk ditampilkan. Untuk memilih salah satu, klik tombol tampilan.</string>
+    <string name="currReminders">Pengingat:</string>
+    <string name="noRemindersMsg">Tidak ada pengingat yang disetel untuk ditampilkan. Untuk memilih salah satu, klik tombol tampilan.</string>
+    <string name="addExpense">Tambahkan Biaya</string>
+    <string name="details">Keterangan</string>
+    <string name="detailsRequired">Keterangan *</string>
+    <string name="cost">Biaya</string>
+    <string name="costRequired">Biaya *</string>
+
+    <!-- Database Screen -->
+    <string name="noExpense">Belum ada pengeluaran bulan ini!</string>
+    <string name="editExpense">Sunting Biaya</string>
+    <string name="resetFilter">Setel ulang penyaring</string>
+    <string name="sortAsc">Urutkan secara menaik</string>
+
+    <!-- Categories -->
+    <string name="manageCategory">Kelola Kategori</string>
+    <string name="insertCategory">Masukkan Kategori</string>
+    <string name="editCategory">Sunting Kategori</string>
+
+    <!-- Default Categories -->
+    <string name="foodDrinks">Makanan/Minuman</string>
+    <string name="transport">Transportasi</string>
+    <string name="dailyNecessities">Kebutuhan Sehari-hari</string>
+    <string name="leisure">Kenyamanan</string>
+    <string name="misc">Lain-lain</string>
+
+    <!-- Expense Buttons -->
+    <string name="sort">Menyortir</string>
+    <string name="filter">Saring</string>
+    <string name="calculate">Menghitung</string>
+    <string name="model">Model</string>
+
+    <!-- Expense Button Drop Downs -->
+    <string name="byDate">Berdasarkan tanggal</string>
+    <string name="byCategory">Berdasarkan kategori</string>
+    <string name="byCost">Berdasarkan biaya</string>
+    <string name="byCostRange">Berdasarkan kisaran biaya</string>
+    <string name="selectCategory">Pilih Kategori:</string>
+    <string name="selectMinMax">Pilih biaya minimum dan/atau maksimum</string>
+    <string name="totalExp">Total pengeluaran</string>
+    <string name="aveExp">Pengeluaran rata-rata</string>
+    <string name="calcByDate">Hitung berdasarkan tanggal</string>
+    <string name="calcByCategory">Hitung berdasarkan kategori</string>
+    <string name="barChart">Diagram batang</string>
+    <string name="lineChart">Bagan garis</string>
+    <string name="pieChart">Bagan lingkaran</string>
+
+    <!-- Pop Up Labels -->
+    <string name="filterDate">Tanggal</string>
+    <string name="filterTime">Waktu</string>
+    <string name="filterCategory">Kategori</string>
+    <string name="filterMinCost">Biaya Minimal</string>
+    <string name="filterMaxCost">Biaya Maksimum</string>
+    <string name="totalText1">Anda membelanjakan total S$</string>
+    <string name="totalText2">bulan ini</string>
+    <string name="aveText1">Anda menghabiskan rata-rata S$</string>
+    <string name="aveText2">per hari pada bulan ini</string>
+    <string name="dateText1">Anda menghabiskan S$</string>
+    <string name="dateText2">untuk</string>
+    <string name="categoryText1">Anda membelanjakan S$</string>
+    <string name="categoryText2">pada tanggal</string>
+    <string name="centerText">Klik untuk menampilkan kategori dan persentase</string>
+
+    <!-- Limit Text Field Labels -->
+    <string name="limitScreen">Batasi Layar</string>
+    <string name="label">Label</string>
+    <string name="goals">Sasaran</string>
+    <string name="reminders">Pengingat</string>
+    <string name="type">Jenis *</string>
+    <string name="amt">Jumlah</string>
+    <string name="amount">Jumlah *</string>
+    <string name="requiredText">* bidang yang wajib diisi</string>
+    <string name="editGoal">Sunting Sasaran</string>
+    <string name="toastMsg">Silakan pilih Label terlebih dahulu.</string>
+
+    <!-- Category Card Labels -->
+    <string name="maxMin">Maks/Min</string>
+    <string name="max">Maks</string>
+    <string name="min">Min</string>
+    <string name="typeDesc">Deskripsi Tipe</string>
+
+    <!-- Label types -->
+    <string name="maxLimit">Batas Maks</string>
+    <string name="setAside">Sisihkan</string>
+
+    <!-- Goal Type Field Labels -->
+    <string name="manageType">Kelola Jenis</string>
+    <string name="addType">Tambahkan Jenis</string>
+    <string name="editType">Sunting Jenis</string>
+
+    <!-- Limit Current Screen -->
+    <string name="current">Saat ini</string>
+    <string name="goalsEmpty">Belum ada Tujuan atau Pengingat. Klik tombol Tambah untuk menambahkannya!</string>
+
+    <!-- My Account Field Labels -->
+    <string name="currUsername">Nama Pengguna Semasa</string>
+    <string name="newUsername">Nama Pengguna Baru</string>
+    <string name="currName">Nama Semasa</string>
+    <string name="newName">Nama Baru</string>
+    <string name="update">Pembaruan</string>
+
+    <!-- Settings Options -->
+    <string name="notifications">Pemberitahuan</string>
+    <string name="report">Laporan</string>
+    <string name="system">Pengaturan sistem</string>
+
+    <!-- Report -->
+    <string name="prevYears">Tahun-tahun sebelumnya</string>
+    <string name="currYear">Tahun ini</string>
+    <string name="reportToast">Tidak ada biaya yang tersedia untuk periode ini.</string>
+    <string name="emptyReport">Belum ada biaya tambahan. Tambahkan satu di Halaman Beranda!</string>
+
+    <!-- PDF Generation -->
+    <string name="expenditureIn">Pengeluaran selama bulan</string>
+    <string name="pdfToast">File PDF berhasil dibuat</string>
+
+    <!-- System Settings - Language -->
+    <string name="lang">Bahasa yang ditampilkan</string>
+    <string name="eng">Bahasa Inggris</string>
+    <string name="chi">Bahasa Cina</string>
+    <string name="malay">Bahasa Melayu</string>
+    <string name="indo">Bahasa Indo</string>
+    <string name="jap">Bahasa Jepang</string>
+    <string name="kr">Bahasa Korea</string>
+    <string name="th">Bahasa Thailand</string>
+    <string name="viet">Bahasa Vietnam</string>
+
+    <!-- System Settings - Report Rate -->
+    <string name="autoReport">Pembuatan Laporan Otomatis</string>
+    <string name="weekly">Mingguan</string>
+    <string name="biweekly">Dua mingguan</string>
+    <string name="monthly">Bulanan</string>
+
+    <!-- System Settings - Change Themes -->
+    <string name="darkTheme">Tema gelap</string>
+</resources>

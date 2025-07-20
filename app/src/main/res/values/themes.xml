@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AppCompat.GlintForce" parent="Theme.AppCompat.DayNight.NoActionBar" />
+
+    <!-- to resolve problem with app crashing due to incompatibility -->
+    <style name="Theme.FAB" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>
